@@ -1,13 +1,13 @@
 # Bilkent University CS Portfolio & Lab Projects 🚀
 
-Welcome to my repository! I am a **Sophomore Computer Science student** at **Bilkent University**, attending on a **full scholarship**. This space serves as a comprehensive portfolio of my academic journey, ranging from complex lab assignments to independent game development and competitive programming.
+Welcome to my repository! I am a **Sophomore Computer Science student** at **Bilkent University**, attending on a **full scholarship**.
 
 ## 🎯 Objectives
 My goal is to bridge the gap between theoretical computer science and practical software engineering. I am focused on mastering **Data Structures and Algorithms** while building efficient, user-centered applications.
 
 ---
 
-## 🏆 Featured Projects & Games
+## 🏆 Some of the Featured Projects & Games
 
 | Project | Location | Key Highlights |
 | :--- | :--- | :--- |
@@ -15,24 +15,15 @@ My goal is to bridge the gap between theoretical computer science and practical 
 | **Uno Game** | `Labs/lab5` | A fully functional simulation implementing complex rules, deck shuffling, and turn-based logic. |
 | **4-Player Strategic Game** | `Labs/lab1_cs102` | A multi-player project emphasizing object-oriented design and game mechanics. |
 | **Snake Game** | `Labs/lab6` | Classic implementation focusing on event-driven programming and real-time updates. |
-| **NoW (No Withdraws)** | `Group Project` | A high-fidelity application where I specialized in **UI/UX Design using JavaFX** and Scene Builder. |
 
 ---
 
 ## 🧩 Problem Solving & Competitive Programming
 I actively refine my logic and algorithmic thinking through various platforms:
 
-* **CodingBat (Max Level):** Completed advanced challenges focusing on complex logic, recursion, and string manipulation.
+* **CodingBat (Max Level):** Completed max level challenges of Coding Bat focusing on complex logic, recursion, and string manipulation to make practice.
 * **LeetCode:** Ongoing practice to optimize time and space complexity in problem-solving.
-* **Lab Practices:** A dedicated collection of exercises covering **Discrete Mathematics**, **Data Structures**, and **Calculus**.
-
----
-
-## 🛠️ Technical Stack
-* **Languages:** Java (Advanced), C++.
-* **Technologies:** JavaFX, Scene Builder, Git, VS Code.
-* **Foundations:** Object-Oriented Programming (OOP), Algorithm Analysis, Multi-variable Calculus.
-
+* **Lab Practices:** A dedicated collection of exercises covering **Discrete Mathematics**, **Data Structures**. These lab practices demonstrate my progress in Java and have helped me refine my skills.
 ---
 
 ## 📫 Contact & Growth
