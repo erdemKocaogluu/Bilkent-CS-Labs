@@ -17,8 +17,11 @@ public class Lab05_Q1 {
         if (numberss > 0 ) {
             System.out.println("Invalid input. Please only enter digits(0-9).");
         }
-        System.out.print("Please enter the chart data as string: ") ;
-        numberAsString = in.nextLine() ;
+            do {
+              System.out.print("Please enter the chart data as string (More than 1 digit): ") ;
+              numberAsString = in.nextLine() ;
+
+            } while (numberAsString.length() == 1 ) ;
         lengthOfNumber = numberAsString.length() ;
         int n = 0 ;
         while ( n < lengthOfNumber && done ) {
