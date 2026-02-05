@@ -87,8 +87,9 @@ public static int[][] addMatrices (int[][] matrixOne , int[][] matrixTwo ) {
 
                 for ( int x = 0 ; x< length2 ; x++ ) {
 
-                    output[x][2-i] = matrix[i][x] ;
+                    output[x][length1-1-i] = matrix[i][x] ; // 0,2 --> 0,0 // 1,2 --> 0,1 // 2,2 --> 0,2
                 }
+
             }
             return output ;
 
